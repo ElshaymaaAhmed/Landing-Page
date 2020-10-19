@@ -4,9 +4,11 @@ In this project I am going to build a multi-section landing page, with a dynamic
 ## Tools
 
 - [x] HTML
-- [ ] CSS
-- [ ] JavaScript
+- [x] CSS
+- [x] JavaScript
 
--HTML
--CSS
--JavaScript
+## Usability
+
+All features are usable across modern desktop, tablet, and phone browsers.
+
+
