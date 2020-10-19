@@ -1,2 +1,12 @@
 # Landing-Page
 In this project I am going to build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+
+## Tools
+
+- [x] HTML
+- [ ] CSS
+- [ ] JavaScript
+
+-HTML
+-CSS
+-JavaScript
